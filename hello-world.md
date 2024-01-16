@@ -17,3 +17,8 @@ Pythonia
 ### Url Markdownissa
 
 [Terokarvinen.com](https://terokarvinen.com)
+
+
+### Kuva Markdownissa
+
+![Lidlin kuulokkeet](kuva1s.jpg)
