@@ -16,4 +16,4 @@ Pythonia
 
 ### Url Markdownissa
 
-[Terokarvinen.com](https://terokarvinne.com)
+[Terokarvinen.com](https://terokarvinen.com)
